@@ -91,5 +91,7 @@ input[type=button]:hover{
 }
 
 .fugo{
+ width: 300px;
+ padding: 100px 50px 25px;
  float:right;
 }
